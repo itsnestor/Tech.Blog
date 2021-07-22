@@ -39,10 +39,11 @@
 
   * Application URL: https://itsnestor.github.io/Tech.Blog/
   * Github Repository URL: https://github.com/itsnestor/Tech.Blog
+  * Heroku URL: https://tech-blog-123.herokuapp.com/
 
   ![techblogpicture](Assets/TechBlog.PNG)
   
-  
+
 ## License
 
   [![mitLicense](https://img.shields.io/badge/license-MIT-green?style=plastic)](https://choosealicense.com/licenses/bsd-3-clause/)
